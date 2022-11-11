@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RsYMxfa46g5hW3UYh8aNK8fYDhro2ypL2XtjwOJSu7SjufDq2CqKCTj38bp4F1SbPz00Ek0mLzGcuhYlfhuDLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nickl\\source\\repos\\DungeonSomething\\DungeonSomething.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nickl\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Nickl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nickl\\.nuget\\packages\\sadconsole\\9.2.2\\sadconsole.9.2.2.nupkg.sha512",
+    "C:\\Users\\Nickl\\.nuget\\packages\\sadconsole.host.monogame\\9.2.2\\sadconsole.host.monogame.9.2.2.nupkg.sha512",
+    "C:\\Users\\Nickl\\.nuget\\packages\\thesadrogue.primitives\\1.1.1\\thesadrogue.primitives.1.1.1.nupkg.sha512",
+    "C:\\Users\\Nickl\\.nuget\\packages\\thesadrogue.primitives.monogame\\1.0.0\\thesadrogue.primitives.monogame.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
